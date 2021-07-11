@@ -1,1 +1,3 @@
 Fitxer per realitzar exercici 1.
+
+Modificacio feta desde branch1.
